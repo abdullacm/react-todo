@@ -1,0 +1,7 @@
+.todo-item-container {
+    list-style: none;
+    display: flex;
+}
+.delete-button {
+    margin-left: auto!important;
+}
